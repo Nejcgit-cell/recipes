@@ -4,4 +4,4 @@
 * lime
 * salt
 ## Instructions
-+An ill-considered change
+* put one avocado into a bowl.
